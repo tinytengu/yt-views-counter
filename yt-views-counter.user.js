@@ -6,6 +6,7 @@
 // @author       tinytengu
 // @match        https://www.youtube.com/watch*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @downloadURL  https://github.com/tinytengu/yt-views-counter/raw/main/yt-views-counter.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
